@@ -2,7 +2,7 @@
   "name": "token",
   "version": "1.0.0",
   "description": "ES6 Token creation",
-  "main": "index.js",
+  "main": "token.js",
   "directories": {
     "test": "test"
   },
