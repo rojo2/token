@@ -9,4 +9,4 @@ token.create(token.LONG).then((createdToken) => {
 });
 ```
 
-Made with ❤ by ROJO 2 (http://rojo2.com)
+Made with :heart: by [ROJO 2](http://rojo2.com)

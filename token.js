@@ -15,8 +15,8 @@ const LONG = 512;
 /**
  * Generates a random token using crypto.randomBytes
  *
- * @param {Number} length
- * @return {Number}
+ * @param {number} length
+ * @return {number}
  */
 function token(length = DEFAULT_LENGTH) {
   if (length < MINIMUM_LENGTH) {
